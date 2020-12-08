@@ -1,0 +1,1 @@
+# touching-rects-change-color
